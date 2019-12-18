@@ -14,3 +14,9 @@ date: dd.mm.yyyy
 time: hh:mm-hh:mm
 location: location
 ```
+
+## Мероприятия
+
+Номер   | Место                                                       | Дата
+--------|-------------------------------------------------------------|------------------
+1       | [Добавить](https://github.com/sochijs/meetings/new/master/events) | 
